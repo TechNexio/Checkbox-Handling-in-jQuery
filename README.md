@@ -26,7 +26,6 @@ $(document).ready(function() {
 </html>
 
 
-
-**Full Guide available https://technexio.com/mastering-checkbox-handling-in-jquery/**https://technexio.com/mastering-checkbox-handling-in-jquery/?preview_id=4884&preview_nonce=5bd552f2c1&preview=true&_thumbnail_id=4886
+**[Full Guide available](https://technexio.com/mastering-checkbox-handling-in-jquery/)https://technexio.com/mastering-checkbox-handling-in-jquery/**
 
 
